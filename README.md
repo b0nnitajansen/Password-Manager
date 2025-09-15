@@ -7,10 +7,12 @@ Features:
 - Save website, email/username, and password to a local file
 - Confirmation popup before saving
 - Default email pre-filled for faster entry
+- Search Function – quickly retrieve stored email & password by website name.
 
 Tech Stack:
 - Python 
 - Tkinter (GUI)
 - Pyperclip (clipboard support)
+- JSON – local data storage
 
 <img width="753" height="579" alt="image" src="https://github.com/user-attachments/assets/d5140073-527c-4a51-9ebb-3623f64ff07f" />
